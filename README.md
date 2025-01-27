@@ -2,6 +2,9 @@
 
 Este tutorial descreve como criar um widget para exibir cotações do dólar, euro e bitcoin diretamente na área de trabalho do Manjaro usando **Python** e **Conky**.
 
+![Captura de tela de 2025-01-27 11-44-24](https://github.com/user-attachments/assets/ffc78aee-8b7c-4689-b94b-cbf99837f47f)
+
+
 ---
 
 ## Pré-requisitos
